@@ -1,0 +1,18 @@
+.prodBox {
+	position: relative;
+}
+.addToCart {
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+.sold, .out {
+	font-size: 8px !important;
+	line-height: 1 !important;
+}
+.sold {
+	margin-top: 8px;
+}
+.out {
+	margin-top: 3px;
+}
